@@ -1,5 +1,5 @@
 Summary:	Pastemage - easily join images forming a panorama
-Summary(pl):	Pastemage - ³atwe ³±czenie zdjêæ w panowamê
+Summary(pl):	Pastemage - ³atwe ³±czenie zdjêæ w panoramê
 Name:		pastemage
 Version:	20041108
 Release:	1
