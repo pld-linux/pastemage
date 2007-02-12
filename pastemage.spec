@@ -1,5 +1,5 @@
 Summary:	Pastemage - easily join images forming a panorama
-Summary(pl):	Pastemage - ³atwe ³±czenie zdjêæ w panoramê
+Summary(pl.UTF-8):   Pastemage - Å‚atwe Å‚Ä…czenie zdjÄ™Ä‡ w panoramÄ™
 Name:		pastemage
 Version:	20041108
 Release:	1
@@ -22,11 +22,11 @@ digital camera or other sources to form one big panorama image. It
 allows the user to interactively move the images with the mouse,
 adjusting all the joining parameters.
  
-%description -l pl
-Pastemage to ³atwy w u¿yciu program do ³±czenia dwóch lub wiêkszej
-liczby zdjêæ z aparatu cyfrowego lub innych ¼róde³ w celu stworzenia
-du¿ej panoramy. Pozwala u¿ytkownikowi interaktywnie przesuwaæ zdjêcia
-myszk±, reguluj±c parametry ³±czenia.
+%description -l pl.UTF-8
+Pastemage to Å‚atwy w uÅ¼yciu program do Å‚Ä…czenia dwÃ³ch lub wiÄ™kszej
+liczby zdjÄ™Ä‡ z aparatu cyfrowego lub innych ÅºrÃ³deÅ‚ w celu stworzenia
+duÅ¼ej panoramy. Pozwala uÅ¼ytkownikowi interaktywnie przesuwaÄ‡ zdjÄ™cia
+myszkÄ…, regulujÄ…c parametry Å‚Ä…czenia.
 
 %prep
 %setup -q -n %{name}-alpha-%{version}
